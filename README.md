@@ -1,6 +1,6 @@
-# Extension Store Request Repository
+# Jami Extension Store Request Repository
 
-This repository is used to request a certificate to be eligible for the [Extension Store](https://dl.jami.net/plugins) and upload new extension.
+This repository is used to request a certificate to be eligible for the [Jami Extension Store](https://dl.jami.net/plugins) and upload new extension.
 
 **Jami Extension Store** is a repository of extensions for the Jami client. It is a way for developers to share their extensions with the community.
 It is also a way for users to securely find and install extensions.
